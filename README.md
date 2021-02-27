@@ -1,2 +1,9 @@
 # currentTime
-HTML5, CSS3, JavaScript and React in order to create a simple clock.
+A simple example of a clock showing the current time using React.
+
+## Getting Started
+Just click on the link below 👇, enjoy !
+
+🕐 https://eu983.csb.app/ 🕐
+
+
